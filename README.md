@@ -1,4 +1,4 @@
-###ERROR
+### ERROR
 CUDA는 GPU 안쓰면 에러남
 
 # Generative Tensorial Reinforcement Learning (GENTRL) 
