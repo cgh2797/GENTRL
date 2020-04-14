@@ -1,3 +1,5 @@
+코드 torch로 이루어짐
+
 ### ERROR
 ONLY CPU로 돌리면 에러남  
 GPU로 돌려야함 (gentrl 패키지 내부의 문제)
