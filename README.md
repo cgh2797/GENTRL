@@ -1,6 +1,6 @@
 ### ERROR
 ONLY CPU로 돌리면 에러남  
-GPU로 돌려야함
+GPU로 돌려야함 (gentrl패키지 내부의 )
 
 # Generative Tensorial Reinforcement Learning (GENTRL) 
 Supporting Information for the paper _"[Deep learning enables rapid identification of potent DDR1 kinase inhibitors](https://www.nature.com/articles/s41587-019-0224-x)"_.
